@@ -1,0 +1,4 @@
+Maximum
+5760
+
+"select MAX(purchase_amount) AS ""Maximum"" from orders;"

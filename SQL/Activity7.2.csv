@@ -1,0 +1,4 @@
+Average
+1461.765
+
+"select AVG(purchase_amount) AS ""Average"" from orders;"

@@ -1,0 +1,4 @@
+Total count
+6
+
+"select COUNT(distinct salesman_id) AS ""Total count"" from orders;"

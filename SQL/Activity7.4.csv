@@ -1,0 +1,4 @@
+Minumum
+65.26
+
+"select MIN(purchase_amount) AS ""Minumum"" from orders;"

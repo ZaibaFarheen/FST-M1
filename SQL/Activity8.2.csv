@@ -1,0 +1,6 @@
+SALESMAN_ID,ORDER_DATE,Max Amount
+5003,17-Aug-12,110.5
+5007,17-Aug-12,75.29
+,,
+,,
+"SELECT customer_id, MAX(purchase_amount) AS ""Max Amount"" FROM orders GROUP BY customer_id;",,

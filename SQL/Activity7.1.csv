@@ -1,0 +1,4 @@
+Total sum
+17541.18
+
+"select SUM(purchase_amount) AS ""Total sum"" from orders;"
